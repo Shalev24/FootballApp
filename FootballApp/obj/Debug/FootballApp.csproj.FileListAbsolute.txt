@@ -1,0 +1,404 @@
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\FootballApp.dll.config
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\FootballApp.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\FootballApp.pdb
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\csc.exe
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\csc.exe.config
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\csc.rsp
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\csi.exe
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\csi.exe.config
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\csi.rsp
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.AppContext.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Console.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Net.Http.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\vbc.exe
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\vbc.exe.config
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\vbc.rsp
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\Antlr3.Runtime.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\Newtonsoft.Json.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Net.Http.Formatting.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.Helpers.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.Http.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.Http.WebHost.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.Mvc.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.Optimization.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.Razor.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.WebPages.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\WebGrease.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\Newtonsoft.Json.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Net.Http.Formatting.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.Helpers.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.Http.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.Http.WebHost.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.Mvc.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.Optimization.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.Razor.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.WebPages.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\Antlr3.Runtime.pdb
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\obj\Debug\FootballApp.csproj.AssemblyReference.cache
+C:\Users\shala\source\repos\FootballApp\FootballApp\obj\Debug\FootballApp.csproj.CoreCompileInputs.cache
+C:\Users\shala\source\repos\FootballApp\FootballApp\obj\Debug\FootballApp.csproj.CopyComplete
+C:\Users\shala\source\repos\FootballApp\FootballApp\obj\Debug\FootballApp.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\obj\Debug\FootballApp.pdb
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\CsvHelper.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Buffers.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Memory.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Numerics.Vectors.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Buffers.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Memory.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Numerics.Vectors.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\shala\source\repos\FootballApp\FootballApp\bin\CsvHelper.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\FootballApp.dll.config
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\FootballApp.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\FootballApp.pdb
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csc.exe
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csc.exe.config
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csc.rsp
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csi.exe
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csi.exe.config
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csi.rsp
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.AppContext.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Console.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Net.Http.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\vbc.exe
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\vbc.exe.config
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\vbc.rsp
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\Antlr3.Runtime.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\CsvHelper.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\Newtonsoft.Json.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Buffers.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Memory.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Net.Http.Formatting.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Numerics.Vectors.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Helpers.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Http.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Http.WebHost.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Mvc.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Optimization.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Razor.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\WebGrease.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\CsvHelper.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Buffers.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Memory.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Numerics.Vectors.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\Newtonsoft.Json.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Net.Http.Formatting.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Helpers.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Http.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Http.WebHost.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Mvc.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Optimization.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Razor.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\Antlr3.Runtime.pdb
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.csproj.AssemblyReference.cache
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.csproj.CoreCompileInputs.cache
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.csproj.CopyComplete
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.dll
+C:\Users\shala\source\repos\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.pdb
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\FootballApp.dll.config
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\FootballApp.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\FootballApp.pdb
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csc.exe
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csc.exe.config
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csc.rsp
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csi.exe
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csi.exe.config
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csi.rsp
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.AppContext.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Console.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Net.Http.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\vbc.exe
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\vbc.exe.config
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\vbc.rsp
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\Antlr3.Runtime.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\CsvHelper.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\Newtonsoft.Json.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Buffers.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Memory.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Net.Http.Formatting.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Numerics.Vectors.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Helpers.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Http.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Http.WebHost.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Mvc.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Optimization.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Razor.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\WebGrease.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\CsvHelper.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Buffers.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Memory.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Numerics.Vectors.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\Newtonsoft.Json.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Net.Http.Formatting.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Helpers.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Http.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Http.WebHost.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Mvc.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Optimization.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Razor.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\Antlr3.Runtime.pdb
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.csproj.AssemblyReference.cache
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.csproj.CoreCompileInputs.cache
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.csproj.CopyComplete
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.dll
+C:\Users\shala\OneDrive\Documents\Minute Media assignment\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.pdb
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\FootballApp.dll.config
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\FootballApp.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\FootballApp.pdb
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csc.exe
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csc.exe.config
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csc.rsp
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csi.exe
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csi.exe.config
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\csi.rsp
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.AppContext.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Console.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Net.Http.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\vbc.exe
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\vbc.exe.config
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\vbc.rsp
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\Antlr3.Runtime.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\CsvHelper.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\Newtonsoft.Json.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Buffers.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Memory.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Net.Http.Formatting.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Numerics.Vectors.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Helpers.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Http.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Http.WebHost.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Mvc.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Optimization.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Razor.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\WebGrease.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\CsvHelper.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Buffers.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Memory.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Numerics.Vectors.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\Newtonsoft.Json.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Net.Http.Formatting.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Helpers.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Http.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Http.WebHost.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Mvc.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Optimization.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.Razor.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\Antlr3.Runtime.pdb
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.csproj.AssemblyReference.cache
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.csproj.CoreCompileInputs.cache
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.csproj.CopyComplete
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.dll
+C:\Users\shala\OneDrive\Documents\MinuteMediaAssignment\FootballApp_ShalevHogue\FootballApp\obj\Debug\FootballApp.pdb
